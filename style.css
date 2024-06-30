@@ -10,9 +10,11 @@ body {
     height: 100vh;
 }
 .main {
+   /* justify-content: center; */
     align-items: center;
     width: 100%;
     height: 100%;
+    /* background-color: aqua; */
 }
 .box {
     width: 600px;
@@ -20,7 +22,7 @@ body {
     gap: 20px;
     padding: 20px;
     background-color: #151616b0;
-    align-items: center;
+
 }
 .tittle {
     width: 50%;
@@ -32,9 +34,6 @@ body {
     text-align: center;
     letter-spacing: 4px;
     color: #e4f12af3;
-}
-.input-box {
-
 }
 p {
     color: #ffffff;
