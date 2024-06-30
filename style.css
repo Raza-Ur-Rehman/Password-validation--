@@ -20,6 +20,7 @@ body {
     gap: 20px;
     padding: 20px;
     background-color: #151616b0;
+    align-items: center;
 }
 .tittle {
     width: 50%;
@@ -31,6 +32,9 @@ body {
     text-align: center;
     letter-spacing: 4px;
     color: #e4f12af3;
+}
+.input-box {
+
 }
 p {
     color: #ffffff;
