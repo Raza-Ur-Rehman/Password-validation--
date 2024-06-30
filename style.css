@@ -77,18 +77,17 @@ button {
     font-size: 18px;
     cursor: pointer;
 }
-.link span:hover {
+.forget:hover {
     color: #e4f12af3;
 }
-.signup-box {
+.signup-box a:{
 }
 #signup {
     color: #e4f12af3;
     cursor: pointer;
-    margin-left: 5px;
-    text-decoration: underline #ffffff;
+    /* text-decoration: underline #ffffff; */
 }
 #signup:hover {
     color: #ffffff;
-    text-decoration: underline #e4f12af3;
+    /* text-decoration: underline #e4f12af3; */
 }
